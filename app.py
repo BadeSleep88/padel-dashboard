@@ -99,8 +99,9 @@ if "report" in st.session_state:
             mime="application/pdf",
             file_name=f"padel-report-{date.today():%Y-%m-%d}.pdf",
         )
-    except Exception:
-        c2.warning("PDF export unavailable")
+    except Exception as e:
+        c2.error(f"PDF export failed: {type(e).__name__}: {e}")
+        st.exception(e)
 
     if c3.button("Clear my data"):
         del st.session_state["report"]

@@ -1,4 +1,5 @@
 """Padel Insights - run with:  streamlit run app.py"""
+
 import asyncio
 import json
 import sys
@@ -44,15 +45,16 @@ if "report" in st.session_state:
     html, meta = st.session_state["report"]
     st.caption(f"{meta['me']} · {meta['sessions']} sessions · {meta['span']}")
     c1, c2, _ = st.columns([1, 1, 4])
-    c1.download_button("⬇ Download HTML report", html, mime="text/html",
-                       file_name=f"padel-report-{date.today():%Y-%m-%d}.html")
+    c1.download_button(
+        "⬇ Download HTML report",
+        html,
+        mime="text/html",
+        file_name=f"padel-report-{date.today():%Y-%m-%d}.html",
+    )
     if c2.button("Clear my data"):
         del st.session_state["report"]
         st.rerun()
-    if hasattr(st, "iframe"):  # newer Streamlit; components.html is being removed
-        st.iframe(html, height=1600)
-    else:
-        components.html(html, height=1600, scrolling=True)
+    components.html(html, height=5000, scrolling=False)
     st.stop()
 
 # ------------------------------------------------------------------ login view
@@ -60,12 +62,16 @@ st.write("Sign in with your club account to build your personal padel dashboard.
 with st.form("login", clear_on_submit=True):
     email = st.text_input("Club email")
     password = st.text_input("Club password", type="password")
-    agree = st.checkbox("I agree to use my club login once to fetch my own session history. "
-                        "My password is not stored and my report disappears when I close this page.")
+    agree = st.checkbox(
+        "I agree to use my club login once to fetch my own session history. "
+        "My password is not stored and my report disappears when I close this page."
+    )
     go = st.form_submit_button("Build my dashboard")
 
 if st.button("See a demo with sample data"):
-    st.session_state["report"] = render_dashboard(json.loads(Path("demo_data.json").read_text(encoding="utf-8")))
+    st.session_state["report"] = render_dashboard(
+        json.loads(Path("demo_data.json").read_text(encoding="utf-8"))
+    )
     st.rerun()
 
 if go:
@@ -90,15 +96,20 @@ if go:
     bar, note = st.progress(0), st.empty()
     try:
         payload = MatchpointScraper(
-            email, password, CLUB_URL, deadline=time.time() + 900,
+            email,
+            password,
+            CLUB_URL,
+            deadline=time.time() + 900,
             progress=lambda stage, pct: (bar.progress(pct / 100), note.write(stage)),
         ).run()
         st.session_state["report"] = render_dashboard(payload)
     except (ScrapeError, ValueError) as e:
-        bar.empty(); note.empty()
+        bar.empty()
+        note.empty()
         st.error(str(e))
     except Exception:
-        bar.empty(); note.empty()
+        bar.empty()
+        note.empty()
         st.error("Something went wrong while fetching your data. Please try again.")
     finally:
         g["slots"].release()

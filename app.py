@@ -33,9 +33,19 @@ def secret(key, default):
 def html_to_pdf(html: str) -> bytes:
     """Render the dashboard HTML in Chromium and return it as a PDF."""
     from playwright.sync_api import sync_playwright
+    import shutil
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        chromium = shutil.which("chromium") or shutil.which("chromium-browser")
+
+        if not chromium:
+            raise RuntimeError("Chromium executable not found on server")
+
+        browser = p.chromium.launch(
+            headless=True,
+            executable_path=chromium,
+        )
+
         page = browser.new_page(
             viewport={"width": 1440, "height": 900},
             device_scale_factor=1,
@@ -43,7 +53,6 @@ def html_to_pdf(html: str) -> bytes:
 
         page.set_content(html, wait_until="networkidle")
 
-        # Give Chart.js time to render the charts.
         page.wait_for_timeout(1500)
 
         pdf = page.pdf(

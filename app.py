@@ -54,7 +54,7 @@ if "report" in st.session_state:
     if c2.button("Clear my data"):
         del st.session_state["report"]
         st.rerun()
-    components.html(html, height=8000, scrolling=False)
+    components.html(html, height=7000, scrolling=False)
     st.stop()
 
 # ------------------------------------------------------------------ login view

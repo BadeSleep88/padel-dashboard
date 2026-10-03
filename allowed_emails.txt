@@ -1,0 +1,1 @@
+# One email per line ("@domain.com" allows a whole domain). On public repos, use Streamlit secrets instead.

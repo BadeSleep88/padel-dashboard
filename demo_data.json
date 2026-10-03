@@ -1,0 +1,5382 @@
+{
+  "scraped_at": "2026-10-01T09:00:00",
+  "count": 195,
+  "items": [
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "28/09/2026",
+      "day_of_week": "Monday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "4.25"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "B",
+          "rating": "4.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "4,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=b491df341aa28435cd12b1eafc9cbbad",
+      "localizador": "7173252742325"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "27/09/2026",
+      "day_of_week": "Sunday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Omar Lund",
+          "team": "B",
+          "rating": "4.25"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=94cf783e50b8511a8b6c612dd0ddb7d5",
+      "localizador": "2902996466810"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "26/09/2026",
+      "day_of_week": "Saturday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Xan Owens",
+          "team": "B",
+          "rating": "4.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4.25"
+        },
+        {
+          "name": "Kit Ellis",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=6bc1ed3646febfedf7571ca96bf38709",
+      "localizador": "477508810282"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "23/09/2026",
+      "day_of_week": "Wednesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Zed Frost",
+          "team": "B",
+          "rating": "4.50"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=3c8dbb4c50a9b0419e90b0af24f5dfaf",
+      "localizador": "8623662079415"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "22/09/2026",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Court 3: Terra Rossa Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=7c5e92003d9f44d7be2d4f4094541290",
+      "localizador": "5764956255830"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "21/09/2026",
+      "day_of_week": "Monday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Ben Quill",
+          "team": "A",
+          "rating": "4,00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a482df9cb07f0f5eefb37e6a198c9f92",
+      "localizador": "901346795607"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "20/09/2026",
+      "day_of_week": "Sunday",
+      "time": "14:00-15:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "4,25"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=343a8dc171a1aac90b5fc89ccf4a734d",
+      "localizador": "580779652600"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "19/09/2026",
+      "day_of_week": "Saturday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Court 7: London Independent Hospital Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=ed7ba1c9660584ae2a4f4d8c49312ce0",
+      "localizador": "2372642622210"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "18/09/2026",
+      "day_of_week": "Friday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Rae Dune",
+          "team": "A",
+          "rating": "4.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Pia Wolfe",
+          "team": "B",
+          "rating": "4,25"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a01f345d0186fab38a2171b7429ef303",
+      "localizador": "8025352666905"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "17/09/2026",
+      "day_of_week": "Thursday",
+      "time": "12:30-13:30",
+      "duration_minutes": 60,
+      "court": "Court 7: London Independent Hospital Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=0f3ecf23b51d68fb548aaa0729a3671f",
+      "localizador": "3937215283779"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "16/09/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Rae Dune",
+          "team": "B",
+          "rating": "4,25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ada164e125c4db18767a03fda0bdfa6a",
+      "localizador": "8751440274089"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "15/09/2026",
+      "day_of_week": "Tuesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Court 2: Joma Padel Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=2e016aa4020cd5b685aede37285fbfef",
+      "localizador": "186946198328"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "13/09/2026",
+      "day_of_week": "Sunday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "4,25"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "4,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=220c37b80e8d9c1c2d43c8c0c1677065",
+      "localizador": "6294670876427"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "12/09/2026",
+      "day_of_week": "Saturday",
+      "time": "13:00-15:00",
+      "duration_minutes": 120,
+      "court": "Court 3: Terra Rossa",
+      "instructor": "Richard Pratt",
+      "levels": "4,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=46288f9c2910a29d223a6457d4b5cd02",
+      "localizador": "1171244930321"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "10/09/2026",
+      "day_of_week": "Thursday",
+      "time": "20:30-22:30",
+      "duration_minutes": 120,
+      "court": "Court 6: Estrella Damm",
+      "instructor": "Richard Pratt",
+      "levels": "4,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=4def16fd6ac0796e74263ce5f2b305c9",
+      "localizador": "2666944055921"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "09/09/2026",
+      "day_of_week": "Wednesday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Milo Bloom",
+          "team": "A",
+          "rating": "4,00"
+        },
+        {
+          "name": "Jade Nash",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Milo Vale",
+          "team": "B",
+          "rating": "4,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=2942542c9309a11346c863441e850681",
+      "localizador": "265154461031"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "08/09/2026",
+      "day_of_week": "Tuesday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "4,25"
+        },
+        {
+          "name": "Omar Shaw",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=bedcb5b4016aa5ff4d77a0a806987c40",
+      "localizador": "454993148413"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "06/09/2026",
+      "day_of_week": "Sunday",
+      "time": "20:30-22:30",
+      "duration_minutes": 120,
+      "court": "Court 5",
+      "instructor": "Richard Pratt",
+      "levels": "4,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=7cf6c51a6f8866e0c461ee001d38da9b",
+      "localizador": "8738103095731"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "05/09/2026",
+      "day_of_week": "Saturday",
+      "time": "14:00-15:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4,25"
+        },
+        {
+          "name": "Zed Frost",
+          "team": "B",
+          "rating": "4.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "4,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=0a99f27608f43a24331f793c2f13b741",
+      "localizador": "1760369909566"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "03/09/2026",
+      "day_of_week": "Thursday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "4.25"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "4,00"
+        },
+        {
+          "name": "Kit Ellis",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a74ae5427f2013e484ba1c899da3539b",
+      "localizador": "6369692677861"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "02/09/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:30-22:30",
+      "duration_minutes": 60,
+      "court": "Court 6: Estrella Damm Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=cf68f5a8250e9d6be1298e419d48dbeb",
+      "localizador": "287607957907"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "31/08/2026",
+      "day_of_week": "Monday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Rae Ellis",
+          "team": "B",
+          "rating": "4.50"
+        },
+        {
+          "name": "Tara Grant",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=2488f657eb08803ff9e25f4983c02871",
+      "localizador": "9599616650269"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "30/08/2026",
+      "day_of_week": "Sunday",
+      "time": "13:00-15:00",
+      "duration_minutes": 120,
+      "court": "Court 4",
+      "instructor": "Richard Pratt",
+      "levels": "4,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=036ba2f4be3f25f27556a376a0a2bb2b",
+      "localizador": "5137340191227"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "29/08/2026",
+      "day_of_week": "Saturday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4,00"
+        },
+        {
+          "name": "Ben Shaw",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=302e955d5242d19e082c8f245f50ab14",
+      "localizador": "1393648362161"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "27/08/2026",
+      "day_of_week": "Thursday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Omar Shaw",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Rae Dune",
+          "team": "A",
+          "rating": "4,25"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=bb325be6f4f56a7ed9fc0dc7fdfbf06b",
+      "localizador": "5183290378290"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "24/08/2026",
+      "day_of_week": "Monday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Cleo Shaw",
+          "team": "B",
+          "rating": "4.50"
+        },
+        {
+          "name": "Wren Castro",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "4,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f2d9e1cb78f134a0fec9d6107e342172",
+      "localizador": "6680465476558"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "23/08/2026",
+      "day_of_week": "Sunday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Milo Bloom",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4.25"
+        },
+        {
+          "name": "Kit Ellis",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=96176412fb3fac1d1cb195c161450c05",
+      "localizador": "9284512549789"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "22/08/2026",
+      "day_of_week": "Saturday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Ben Castro",
+          "team": "A",
+          "rating": "4.50"
+        },
+        {
+          "name": "Xan Owens",
+          "team": "B",
+          "rating": "4.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=b322c2b9b806427be5d046b98ad4d4f8",
+      "localizador": "2244057921375"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "20/08/2026",
+      "day_of_week": "Thursday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "4,25"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Nina Castro",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=8164b6b1bb59d6a38fda97ebdd293f4b",
+      "localizador": "4211747660331"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "17/08/2026",
+      "day_of_week": "Monday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Jade Quill",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=1a54b4b6e5a2af69f111ea25bcb26ee8",
+      "localizador": "9345577923088"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "16/08/2026",
+      "day_of_week": "Sunday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Court 5 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=de21b241f871a0a8633b923e7b81726c",
+      "localizador": "7581774808890"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "15/08/2026",
+      "day_of_week": "Saturday",
+      "time": "15:30-17:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "4.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4,00"
+        },
+        {
+          "name": "Sol Shaw",
+          "team": "B",
+          "rating": "4,50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "4.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=52f4993ef4c0bc182b5f79e3589780db",
+      "localizador": "9864013692069"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "14/08/2026",
+      "day_of_week": "Friday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Sol Bloom",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "4.25"
+        },
+        {
+          "name": "Rae Ellis",
+          "team": "B",
+          "rating": "4.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=032e3a5a4e16432cbf2a54fa897e8d97",
+      "localizador": "2875237275495"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "13/08/2026",
+      "day_of_week": "Thursday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Milo Vale",
+          "team": "A",
+          "rating": "4,50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "4.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=e336819ffdf0b91e1fc0ab620fb752c0",
+      "localizador": "8903052991666"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "12/08/2026",
+      "day_of_week": "Wednesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "4,00 - 4,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Rae Ellis",
+          "team": "B",
+          "rating": "4,50"
+        },
+        {
+          "name": "Hana Bloom",
+          "team": "B",
+          "rating": "4,25"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=bf172e1bdecd51af0408afe2938407cf",
+      "localizador": "6354501701595"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "11/08/2026",
+      "day_of_week": "Tuesday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Hana Bloom",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Milo Bloom",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Dan Shaw",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a23c3a1781ab3f7f366404002588633a",
+      "localizador": "4308624414624"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "09/08/2026",
+      "day_of_week": "Sunday",
+      "time": "17:00-18:00",
+      "duration_minutes": 60,
+      "court": "Court 6",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=1ae27c8e483476e53aeac5548c0f322d",
+      "localizador": "4026288445066"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "08/08/2026",
+      "day_of_week": "Saturday",
+      "time": "14:00-15:00",
+      "duration_minutes": 60,
+      "court": "Court 8 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=f2fb84f4156f47f8e03c8793918574e4",
+      "localizador": "265227441225"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "04/08/2026",
+      "day_of_week": "Tuesday",
+      "time": "12:30-14:30",
+      "duration_minutes": 120,
+      "court": "Court 3: Terra Rossa",
+      "instructor": "Pau Monclus",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=6b7cac4e17a1429bdf9cb6877f85f36f",
+      "localizador": "8992361867135"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "03/08/2026",
+      "day_of_week": "Monday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Vik Frost",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Jade Reyes",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=1efb0f5993ff225eebf8ac4e02b94baa",
+      "localizador": "7353093753928"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "02/08/2026",
+      "day_of_week": "Sunday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=46f56754c2fba27200323b7dabcd5196",
+      "localizador": "2991442540428"
+    },
+    {
+      "tag": "Activity",
+      "name": "Bandeja Workshop",
+      "date": "01/08/2026",
+      "day_of_week": "Saturday",
+      "time": "15:30-17:00",
+      "duration_minutes": 90,
+      "court": "Court 1",
+      "instructor": "Dylan Du Plooy",
+      "levels": "3,50 - 4,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=7a4d8baa409f072fe6f43e30a56c2069",
+      "localizador": "2134823868201"
+    },
+    {
+      "tag": "Activity",
+      "name": "Smash Clinic",
+      "date": "31/07/2026",
+      "day_of_week": "Friday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Court 1",
+      "instructor": "Pau Monclus",
+      "levels": "3,50 - 4,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=47dc78b4ae5e8e1967f9b04237405f50",
+      "localizador": "4654994089494"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "30/07/2026",
+      "day_of_week": "Thursday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Xan Owens",
+          "team": "A",
+          "rating": "4,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=775aac1bd4f6906ad6e791ac7dc22339",
+      "localizador": "2271283733725"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "29/07/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=7a119030cdeb0e415ea8e09ab022e0d3",
+      "localizador": "2225509807992"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "28/07/2026",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Uma Vale",
+          "team": "B",
+          "rating": "3,75"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=b42dffc4df5e935ab777ecfd467ba229",
+      "localizador": "8479987302055"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "26/07/2026",
+      "day_of_week": "Sunday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Gus Lund",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Zed Frost",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a5dd9d602448e500ba01d8773e627377",
+      "localizador": "7822775553228"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "25/07/2026",
+      "day_of_week": "Saturday",
+      "time": "13:00-15:00",
+      "duration_minutes": 120,
+      "court": "Court 2: Joma Padel",
+      "instructor": "Pau Monclus",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=6d8a8028b2c80bd0980b117e3a28b342",
+      "localizador": "8173886365884"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "24/07/2026",
+      "day_of_week": "Friday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Wren Hale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Gus Bloom",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=95fee9c13ea50f578b3a0bbc3aaa9450",
+      "localizador": "8222053939223"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "23/07/2026",
+      "day_of_week": "Thursday",
+      "time": "21:30-23:30",
+      "duration_minutes": 120,
+      "court": "Court 1",
+      "instructor": "Pau Monclus",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=4e4a0f40afcb0f13f22ca78e2ee9bf6d",
+      "localizador": "7371702931426"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "22/07/2026",
+      "day_of_week": "Wednesday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Zed Frost",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=e842926d1195d24734e0717074c45cf8",
+      "localizador": "5448591353380"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "20/07/2026",
+      "day_of_week": "Monday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Rae Ellis",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Vik Frost",
+          "team": "B",
+          "rating": "4,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=e5ec549c4a7cb2ae33834aad0335d8a1",
+      "localizador": "4913634347034"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "19/07/2026",
+      "day_of_week": "Sunday",
+      "time": "15:30-17:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Sol Shaw",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Cleo Shaw",
+          "team": "A",
+          "rating": "4,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=36a9882712cb5da875953507bf4de51b",
+      "localizador": "1615396999851"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "18/07/2026",
+      "day_of_week": "Saturday",
+      "time": "15:30-16:30",
+      "duration_minutes": 60,
+      "court": "Court 5 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=a6c844be645a80d5282639fa798b1310",
+      "localizador": "1476658620964"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "17/07/2026",
+      "day_of_week": "Friday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Court 2: Joma Padel Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=038d5a1e3a6594888e498e656e46a5c9",
+      "localizador": "2820416962074"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "13/07/2026",
+      "day_of_week": "Monday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Rae Ellis",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=7e8fec375b3be41d62ef430dd737ea6a",
+      "localizador": "7831328922356"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "11/07/2026",
+      "day_of_week": "Saturday",
+      "time": "13:00-15:00",
+      "duration_minutes": 120,
+      "court": "Court 3: Terra Rossa",
+      "instructor": "Richard Pratt",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=ef51b6a36e33a4180fd14add2d7bc4d8",
+      "localizador": "5332865454998"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "09/07/2026",
+      "day_of_week": "Thursday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Court 1 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=4ff54c4d88273eb356402a7a731d512f",
+      "localizador": "3813986420843"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "07/07/2026",
+      "day_of_week": "Tuesday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Omar Shaw",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=26bd622140fe880d8184e6674084fdb0",
+      "localizador": "7472031098339"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "06/07/2026",
+      "day_of_week": "Monday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3,75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a128b3f4534c496af2fac6b0ff663e73",
+      "localizador": "1900233939590"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "05/07/2026",
+      "day_of_week": "Sunday",
+      "time": "10:00-11:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=6d8a0990846b3ba35d82ef9b1ad85ffa",
+      "localizador": "2461854885623"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "04/07/2026",
+      "day_of_week": "Saturday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Pia Wolfe",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f6d6f1f6af0894e69f569ca039b645d9",
+      "localizador": "6667506506644"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "03/07/2026",
+      "day_of_week": "Friday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3,75"
+        },
+        {
+          "name": "Wren Hale",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Xan Owens",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=fa1c8be785e55eb4c269b873ac7a00ed",
+      "localizador": "6640027526775"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "02/07/2026",
+      "day_of_week": "Thursday",
+      "time": "21:00-22:00",
+      "duration_minutes": 60,
+      "court": "Court 8",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=bc37293edbd57da8cafe1f6151b9267f",
+      "localizador": "5356096333247"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "01/07/2026",
+      "day_of_week": "Wednesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Wren Castro",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=2c49d49aee9f4580d08fb6d0ed62279c",
+      "localizador": "7393725442427"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "29/06/2026",
+      "day_of_week": "Monday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Court 2: Joma Padel Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=247e1de30ca67dbeb4c29d9936dae96f",
+      "localizador": "6779978460337"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "28/06/2026",
+      "day_of_week": "Sunday",
+      "time": "14:00-15:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Ben Castro",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Uma Vale",
+          "team": "A",
+          "rating": "3,75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=35ea45ac4e8854b47036909a39e5e32b",
+      "localizador": "2944040843482"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "27/06/2026",
+      "day_of_week": "Saturday",
+      "time": "14:00-16:00",
+      "duration_minutes": 120,
+      "court": "Court 1",
+      "instructor": "Richard Pratt",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=04a170587c7a437ecb4e59b08f1350c2",
+      "localizador": "5895312809532"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "23/06/2026",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Yara Knox",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=d2fc3f3c3fd03f91d80f7bec391a97c0",
+      "localizador": "8193567167279"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "22/06/2026",
+      "day_of_week": "Monday",
+      "time": "21:00-22:00",
+      "duration_minutes": 60,
+      "court": "Court 3",
+      "instructor": "Richard Pratt",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=6fa6aef1515e22e00fd2d741d7a9fdc1",
+      "localizador": "265379275986"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "21/06/2026",
+      "day_of_week": "Sunday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Wren Hale",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f4c4e8bc562ad69a1b31a888deeeea35",
+      "localizador": "2096339327221"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "20/06/2026",
+      "day_of_week": "Saturday",
+      "time": "15:30-17:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=fa9b555246fa3447a99286c0d7ce0ec0",
+      "localizador": "4119854904613"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "19/06/2026",
+      "day_of_week": "Friday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Omar Shaw",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Milo Bloom",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=d87de86440285b86ce53935fd16ccd6b",
+      "localizador": "7179333485490"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "18/06/2026",
+      "day_of_week": "Thursday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Vik Frost",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Wren Hale",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Rae Ellis",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=4f20047226249de87a13d9133d268f95",
+      "localizador": "7790458619442"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "17/06/2026",
+      "day_of_week": "Wednesday",
+      "time": "12:30-13:30",
+      "duration_minutes": 60,
+      "court": "Court 6: Estrella Damm Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=cd33e9fec3d7c6afcc831e864ec8b45d",
+      "localizador": "4291192313143"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "15/06/2026",
+      "day_of_week": "Monday",
+      "time": "17:30-18:30",
+      "duration_minutes": 60,
+      "court": "Court 2: Joma Padel Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=bd008f56f49d64c090cea7a241291995",
+      "localizador": "1711109125742"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "14/06/2026",
+      "day_of_week": "Sunday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Jade Quill",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Ben Castro",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=7b7d3703a3ef076b1acdc79d2edf85dd",
+      "localizador": "9944275937489"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "13/06/2026",
+      "day_of_week": "Saturday",
+      "time": "15:30-16:30",
+      "duration_minutes": 60,
+      "court": "Court 4",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=4d54a7dc843565f6ef306e13d6975bb3",
+      "localizador": "2873017051962"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "11/06/2026",
+      "day_of_week": "Thursday",
+      "time": "21:00-23:00",
+      "duration_minutes": 120,
+      "court": "Court 6: Estrella Damm",
+      "instructor": "Pau Monclus",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=5bfc54d5f667b388b3f9c6ad09844593",
+      "localizador": "7760839337219"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "10/06/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:00-22:00",
+      "duration_minutes": 60,
+      "court": "Court 5",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=26e8019792f4cece6788749c1736ebeb",
+      "localizador": "8627663025025"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "09/06/2026",
+      "day_of_week": "Tuesday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Wren Castro",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Wren Hale",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ea4bfe513214825007e2e756aa04ab22",
+      "localizador": "2224804184475"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "07/06/2026",
+      "day_of_week": "Sunday",
+      "time": "14:00-15:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Ben Shaw",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=3a5d0b7c056ebc875e5b10c7ac1ff652",
+      "localizador": "3169377936424"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "06/06/2026",
+      "day_of_week": "Saturday",
+      "time": "15:30-17:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "4,00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=fe01ce75fc538e29e602225b0dde9bb5",
+      "localizador": "9081207007233"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "05/06/2026",
+      "day_of_week": "Friday",
+      "time": "18:30-20:30",
+      "duration_minutes": 120,
+      "court": "Court 2: Joma Padel",
+      "instructor": "Pau Monclus",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=8ec80cc5c0b3aa41660793677fa31a2e",
+      "localizador": "4275233665164"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "04/06/2026",
+      "day_of_week": "Thursday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Yara Knox",
+          "team": "B",
+          "rating": "3,75"
+        },
+        {
+          "name": "Kit Ellis",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=7aaf35f3b68f14ade9d4a455b817a151",
+      "localizador": "7557898134273"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "03/06/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Ben Quill",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=fa4bb7840dd51983ebf7c99c18fa6eb9",
+      "localizador": "6424146126978"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "02/06/2026",
+      "day_of_week": "Tuesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.75"
+        },
+        {
+          "name": "Yara Knox",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Gus Bloom",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=442fd405123a7178b5bd85ee5042d748",
+      "localizador": "2160368153818"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "01/06/2026",
+      "day_of_week": "Monday",
+      "time": "21:00-22:00",
+      "duration_minutes": 60,
+      "court": "Court 3: Terra Rossa Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=91a136c576d8e27e07c36d29ba78a71c",
+      "localizador": "7679949733617"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "31/05/2026",
+      "day_of_week": "Sunday",
+      "time": "10:00-11:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Omar Shaw",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=cdaf171e7156282a2a2d92e7459da3d5",
+      "localizador": "901385290057"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "30/05/2026",
+      "day_of_week": "Saturday",
+      "time": "10:00-11:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Jade Quill",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=3638acc02d384db001dc5bb4bb845544",
+      "localizador": "2913739556231"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "27/05/2026",
+      "day_of_week": "Wednesday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Court 8 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=ac5a0a6e39ebbf65b669972d06263739",
+      "localizador": "1873506548237"
+    },
+    {
+      "tag": "Activity",
+      "name": "Bandeja Workshop",
+      "date": "25/05/2026",
+      "day_of_week": "Monday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Court 5",
+      "instructor": "Pau Monclus",
+      "levels": "3,50 - 4,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=7592ce63dfa1c7ef6853ac54fff8b3fa",
+      "localizador": "6130830418541"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "23/05/2026",
+      "day_of_week": "Saturday",
+      "time": "19:00-20:00",
+      "duration_minutes": 60,
+      "court": "Court 5",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=acf314914bc781ef02216ef29a54358a",
+      "localizador": "2978333511812"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "22/05/2026",
+      "day_of_week": "Friday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Jade Quill",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=82f14d2d9d0243c83de82eb31f96288b",
+      "localizador": "7605571414885"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "21/05/2026",
+      "day_of_week": "Thursday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Court 6: Estrella Damm Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=d8e7f05554b1e1e0ee0ac414f5c500bd",
+      "localizador": "7292621502188"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "18/05/2026",
+      "day_of_week": "Monday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Kit Ellis",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=d833424d61fcd25491215310a53e5356",
+      "localizador": "6399038801654"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "17/05/2026",
+      "day_of_week": "Sunday",
+      "time": "14:00-15:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Dan Shaw",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=bcd9504bca7a5c59340afef8b0baf3a8",
+      "localizador": "393177053594"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "16/05/2026",
+      "day_of_week": "Saturday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Pia Knox",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Gus Bloom",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=e56ad7675dbd9956e246a395dfeff8f6",
+      "localizador": "2644806732306"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "13/05/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:30-22:30",
+      "duration_minutes": 60,
+      "court": "Court 3: Terra Rossa Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=03b11606e4644e0d4887d6e120a57875",
+      "localizador": "3655684784111"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "11/05/2026",
+      "day_of_week": "Monday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Pia Knox",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=766bb31ed04d259b3717bd5c2d6a9a5f",
+      "localizador": "291127368684"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "08/05/2026",
+      "day_of_week": "Friday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Sol Bloom",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Milo Vale",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=cd947a1b5a41eafe6ab7233a007b22f1",
+      "localizador": "5573514243883"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "06/05/2026",
+      "day_of_week": "Wednesday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4.00"
+        },
+        {
+          "name": "Jade Hale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Jade Reyes",
+          "team": "A",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ec646f3a708f4aa5a6d107b0811a7a8b",
+      "localizador": "6689775058507"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "04/05/2026",
+      "day_of_week": "Monday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "B",
+          "rating": "3,75"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Xan Owens",
+          "team": "B",
+          "rating": "4.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=fdbea13e284142e192ad24c3119432a5",
+      "localizador": "9457954349667"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "03/05/2026",
+      "day_of_week": "Sunday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Milo Vale",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Kit Ellis",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a1070796e656984517ea9ca91a291a74",
+      "localizador": "8222836163045"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "01/05/2026",
+      "day_of_week": "Friday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Vik Frost",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Jade Quill",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a9df8a1285822184aaf4614dc90792f3",
+      "localizador": "3463613300914"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "30/04/2026",
+      "day_of_week": "Thursday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "4,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Jade Reyes",
+          "team": "A",
+          "rating": "4.00"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "3.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=feabbda5f05cb39676b9852e160d8020",
+      "localizador": "3148727090701"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "28/04/2026",
+      "day_of_week": "Tuesday",
+      "time": "17:30-19:30",
+      "duration_minutes": 120,
+      "court": "Court 3: Terra Rossa",
+      "instructor": "Pau Monclus",
+      "levels": "3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=c93e7fb6d28c587db821f6a0efa5ea7d",
+      "localizador": "3746302527281"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "26/04/2026",
+      "day_of_week": "Sunday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "3,50 - 4,00",
+      "players": [
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Lena Shaw",
+          "team": "A",
+          "rating": "3.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=48efc48738d444a157d52ed8748d31d3",
+      "localizador": "409097928674"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "20/04/2026",
+      "day_of_week": "Monday",
+      "time": "20:30-21:30",
+      "duration_minutes": 60,
+      "court": "Court 1",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=17f4b4ca1b570e2e619e469a62c050bf",
+      "localizador": "1256347363060"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "19/04/2026",
+      "day_of_week": "Sunday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3,25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3,00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "3.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=27f6c31d175a632f8ee42ea368b23ff8",
+      "localizador": "9064369723963"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "18/04/2026",
+      "day_of_week": "Saturday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3,00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3,25"
+        },
+        {
+          "name": "Wren Hale",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=bb54b8bb53759c0767cb7f8013cb790f",
+      "localizador": "8674637398013"
+    },
+    {
+      "tag": "Activity",
+      "name": "Smash Clinic",
+      "date": "15/04/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Court 5",
+      "instructor": "Dylan Du Plooy",
+      "levels": "3,00 - 3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=22c922202b243f8e5389cd5e3eaa60c7",
+      "localizador": "4984818968356"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "14/04/2026",
+      "day_of_week": "Tuesday",
+      "time": "21:30-23:30",
+      "duration_minutes": 120,
+      "court": "Court 4",
+      "instructor": "Dylan Du Plooy",
+      "levels": "3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=2531adab23e5617d266908d35e59c7a8",
+      "localizador": "589457014246"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "11/04/2026",
+      "day_of_week": "Saturday",
+      "time": "13:00-15:00",
+      "duration_minutes": 120,
+      "court": "Court 7: London Independent Hospital",
+      "instructor": "Richard Pratt",
+      "levels": "3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=d620104d159e8489b0ac35e5fa870d0a",
+      "localizador": "9670178328672"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "10/04/2026",
+      "day_of_week": "Friday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.25"
+        },
+        {
+          "name": "Jade Hale",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Vik Frost",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=9ec0605e636d32b32732b89994fa6022",
+      "localizador": "2097346839578"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "09/04/2026",
+      "day_of_week": "Thursday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Gus Lund",
+          "team": "B",
+          "rating": "3.25"
+        },
+        {
+          "name": "Ben Quill",
+          "team": "A",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ff43fc2770c7173601e1c771d814e0f3",
+      "localizador": "3386064768915"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "08/04/2026",
+      "day_of_week": "Wednesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Xan Owens",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Jade Nash",
+          "team": "A",
+          "rating": "3,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f438c6b8068dc5d44036c002e162aaef",
+      "localizador": "3720245354371"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "06/04/2026",
+      "day_of_week": "Monday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Pia Wolfe",
+          "team": "A",
+          "rating": "3.25"
+        },
+        {
+          "name": "Milo Vale",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=82f4dee6a63c59620e66869002b6d08b",
+      "localizador": "2980323506419"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "04/04/2026",
+      "day_of_week": "Saturday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Jade Nash",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "3.25"
+        },
+        {
+          "name": "Jade Quill",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=6793b2b023a60e4e81e11e3f79aa7669",
+      "localizador": "4021436097299"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "31/03/2026",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Pia Wolfe",
+          "team": "B",
+          "rating": "3,25"
+        },
+        {
+          "name": "Zed Frost",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=8723d39553ccaccfab54d946a2d207dc",
+      "localizador": "4917788315857"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "29/03/2026",
+      "day_of_week": "Sunday",
+      "time": "10:00-12:00",
+      "duration_minutes": 120,
+      "court": "Court 3: Terra Rossa",
+      "instructor": "Pau Monclus",
+      "levels": "3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=5919cb589f6aec38bcacf836ed5a148f",
+      "localizador": "9929725692567"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "28/03/2026",
+      "day_of_week": "Saturday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Dan Hale",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Tara Grant",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ce94e1af408461c58790dd2cfb8a5f1b",
+      "localizador": "2560559799205"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "27/03/2026",
+      "day_of_week": "Friday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Court 8 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=7361c5c8a4b57bc9fa65c00537e8b3c4",
+      "localizador": "4557719931244"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "26/03/2026",
+      "day_of_week": "Thursday",
+      "time": "21:30-23:30",
+      "duration_minutes": 120,
+      "court": "Court 5",
+      "instructor": "Richard Pratt",
+      "levels": "3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=776e7f1ccacc27ad909f03fdd9e4a62b",
+      "localizador": "5236920768574"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "23/03/2026",
+      "day_of_week": "Monday",
+      "time": "17:30-19:30",
+      "duration_minutes": 120,
+      "court": "Court 3: Terra Rossa",
+      "instructor": "Pau Monclus",
+      "levels": "3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=b4667a20f1fa2261bd2b5ff4891e5dc9",
+      "localizador": "9452693273682"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "22/03/2026",
+      "day_of_week": "Sunday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "3,50"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=6725480dc3932677172a31659a2e50ad",
+      "localizador": "7263088914822"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "21/03/2026",
+      "day_of_week": "Saturday",
+      "time": "10:00-11:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Milo Bloom",
+          "team": "A",
+          "rating": "3,00"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "3,50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Gus Lund",
+          "team": "B",
+          "rating": "3.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=335ce1113d4db2b5b52a0f94833734f8",
+      "localizador": "9619949572663"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "16/03/2026",
+      "day_of_week": "Monday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Ben Quill",
+          "team": "B",
+          "rating": "3,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Uma Vale",
+          "team": "A",
+          "rating": "3.25"
+        },
+        {
+          "name": "Sol Shaw",
+          "team": "B",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ac49726e45dac31b3629fb0f26f89264",
+      "localizador": "4869434290336"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "14/03/2026",
+      "day_of_week": "Saturday",
+      "time": "14:00-15:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Ben Castro",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=6615d3142f505f7965463e3621d78ed4",
+      "localizador": "1100161193846"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "12/03/2026",
+      "day_of_week": "Thursday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Ben Castro",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Xan Owens",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=aa605882ac89cd1997cd896416bef4ba",
+      "localizador": "8128154012328"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "11/03/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Dan Shaw",
+          "team": "A",
+          "rating": "3,00"
+        },
+        {
+          "name": "Rae Ellis",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "A",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a22eccdf03eeddf52ecf4076c19ace32",
+      "localizador": "374093988894"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "10/03/2026",
+      "day_of_week": "Tuesday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "3,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=404bf7bac806081598a878e2f264d9b1",
+      "localizador": "7885561967639"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "03/03/2026",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Dan Shaw",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "3.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=1caeae0ffac7cb2c8a2788fbf742b65b",
+      "localizador": "2780799839875"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "02/03/2026",
+      "day_of_week": "Monday",
+      "time": "12:30-13:30",
+      "duration_minutes": 60,
+      "court": "Court 8 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=d05743bf2b672850882161db80a1e9ad",
+      "localizador": "4827546780409"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "28/02/2026",
+      "day_of_week": "Saturday",
+      "time": "17:00-18:00",
+      "duration_minutes": 60,
+      "court": "Court 8",
+      "instructor": "Richard Pratt",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=16b1e5d490340494b35ec2daca176014",
+      "localizador": "946194177964"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "27/02/2026",
+      "day_of_week": "Friday",
+      "time": "12:30-13:30",
+      "duration_minutes": 60,
+      "court": "Court 2",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=cb17cdc70808d77b6ad89f65f84992a0",
+      "localizador": "4493283261712"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "25/02/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:00-23:00",
+      "duration_minutes": 120,
+      "court": "Court 8",
+      "instructor": "Richard Pratt",
+      "levels": "3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=b8480f3b47c20431658b4550b7ef6bce",
+      "localizador": "5796037564990"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "22/02/2026",
+      "day_of_week": "Sunday",
+      "time": "19:00-21:00",
+      "duration_minutes": 120,
+      "court": "Court 8",
+      "instructor": "Pau Monclus",
+      "levels": "3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=a51d12afc8e00aa1da5204642bbdb4a7",
+      "localizador": "8504011592506"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "21/02/2026",
+      "day_of_week": "Saturday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 5",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Ben Castro",
+          "team": "B",
+          "rating": "3.50"
+        },
+        {
+          "name": "Wren Hale",
+          "team": "A",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=fa5880587061ce6936714122a40680a0",
+      "localizador": "5757383434011"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "20/02/2026",
+      "day_of_week": "Friday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Milo Vale",
+          "team": "A",
+          "rating": "3.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3,25"
+        },
+        {
+          "name": "Pia Wolfe",
+          "team": "A",
+          "rating": "3.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=6d3b97429ab7bca1aafb77b4460ecec9",
+      "localizador": "3071814487237"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "18/02/2026",
+      "day_of_week": "Wednesday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Court 5 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=00a4ff1125cf5ec72ba694165beaecba",
+      "localizador": "6001310783299"
+    },
+    {
+      "tag": "Activity",
+      "name": "Bandeja Workshop",
+      "date": "15/02/2026",
+      "day_of_week": "Sunday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Court 2",
+      "instructor": "Pau Monclus",
+      "levels": "3,00 - 3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=ba0837bbf1b3ba3178b6e0e30f328549",
+      "localizador": "6798729776910"
+    },
+    {
+      "tag": "Activity",
+      "name": "Smash Clinic",
+      "date": "12/02/2026",
+      "day_of_week": "Thursday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Court 2",
+      "instructor": "Dylan Du Plooy",
+      "levels": "3,00 - 3,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=8f7e732d2e433ec56f24b1c71b106e93",
+      "localizador": "2486745222846"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "10/02/2026",
+      "day_of_week": "Tuesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "3,00 - 3,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "3,25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Jade Hale",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Jade Reyes",
+          "team": "A",
+          "rating": "3.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f2aed4c21a9dbf49a067e24bdb7ec837",
+      "localizador": "3668645348097"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "06/02/2026",
+      "day_of_week": "Friday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2,50"
+        },
+        {
+          "name": "Milo Bloom",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Milo Vale",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Gus Bloom",
+          "team": "A",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=5539ac5ba7b4b87113c16fdf5924754e",
+      "localizador": "1677976935760"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "05/02/2026",
+      "day_of_week": "Thursday",
+      "time": "20:30-21:30",
+      "duration_minutes": 60,
+      "court": "Court 8",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=c6390bf61189639e35aeeb95210ef2a8",
+      "localizador": "8691799640120"
+    },
+    {
+      "tag": "Activity",
+      "name": "Private Class",
+      "date": "03/02/2026",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:00",
+      "duration_minutes": 60,
+      "court": "Court 3",
+      "instructor": "Dylan Du Plooy",
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=6185578715bbd26944ff770e4b9447a3",
+      "localizador": "7571302887266"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "27/01/2026",
+      "day_of_week": "Tuesday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Pia Knox",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=5d694c1957f8db03911731a6b2dc782b",
+      "localizador": "7884301702205"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "24/01/2026",
+      "day_of_week": "Saturday",
+      "time": "15:30-17:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2.75"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "2.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=28c0490c257a632b96292794c9bce485",
+      "localizador": "6546872930963"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "22/01/2026",
+      "day_of_week": "Thursday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.75"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Jade Reyes",
+          "team": "B",
+          "rating": "3.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=cac23db7c6e9b7d180a4742684ee75bb",
+      "localizador": "6728874652706"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "18/01/2026",
+      "day_of_week": "Sunday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 7: London Independent Hospital",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Rae Ellis",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2,50"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "A",
+          "rating": "2.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a47b851832b6ec017c1e1777155a0e9d",
+      "localizador": "4534994192875"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "13/01/2026",
+      "day_of_week": "Tuesday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Milo Bloom",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "2.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=5bab29539ad5966d513b1d00909c3006",
+      "localizador": "8858190769896"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "11/01/2026",
+      "day_of_week": "Sunday",
+      "time": "15:30-17:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Ben Castro",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Omar Lund",
+          "team": "A",
+          "rating": "2.75"
+        },
+        {
+          "name": "Tara Grant",
+          "team": "B",
+          "rating": "2.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ca0fce9594dc72aa7a6d0018f99ddceb",
+      "localizador": "6279067342009"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "10/01/2026",
+      "day_of_week": "Saturday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Milo Bloom",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Jade Reyes",
+          "team": "B",
+          "rating": "3,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=0b57aaf89691052be1ceb374dab4683f",
+      "localizador": "2340699478650"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "09/01/2026",
+      "day_of_week": "Friday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=118813830d71939b53182e4e349d9872",
+      "localizador": "9711021850327"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "08/01/2026",
+      "day_of_week": "Thursday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Nina Castro",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Jade Nash",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=3ef8333c4774ec50cd1c1bac7adac1a4",
+      "localizador": "6318830607111"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "06/01/2026",
+      "day_of_week": "Tuesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.75"
+        },
+        {
+          "name": "Sol Shaw",
+          "team": "B",
+          "rating": "3,00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=a9f20df4875b15b0be23b7ac193fe040",
+      "localizador": "4034570517960"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "03/01/2026",
+      "day_of_week": "Saturday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Court 4 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=9386bd8773c9d51940ea4e095bd1d685",
+      "localizador": "9274823796184"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "01/01/2026",
+      "day_of_week": "Thursday",
+      "time": "17:30-19:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Dan Hale",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Sol Bloom",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Uma Vale",
+          "team": "A",
+          "rating": "2,75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=eaa7f3b4a715e4e48dd74089a58f3aef",
+      "localizador": "2797729810437"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "30/12/2025",
+      "day_of_week": "Tuesday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Omar Shaw",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.75"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=72c5e5b77518b1018f134a069e3fab8c",
+      "localizador": "6693307991923"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "29/12/2025",
+      "day_of_week": "Monday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Jade Reyes",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Ben Castro",
+          "team": "B",
+          "rating": "3.00"
+        },
+        {
+          "name": "Nina Castro",
+          "team": "A",
+          "rating": "2,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f6666259bbc471fb3be24a0b80316f68",
+      "localizador": "7591624801267"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "23/12/2025",
+      "day_of_week": "Tuesday",
+      "time": "21:30-23:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Rae Ellis",
+          "team": "A",
+          "rating": "3.00"
+        },
+        {
+          "name": "Rae Dune",
+          "team": "B",
+          "rating": "2.75"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=e8a981a049d7ccc7e90a88d519448fb2",
+      "localizador": "9839010061570"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "22/12/2025",
+      "day_of_week": "Monday",
+      "time": "20:30-22:30",
+      "duration_minutes": 120,
+      "court": "Court 2: Joma Padel",
+      "instructor": "Pau Monclus",
+      "levels": "2,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=f640d0032634f087e51b429fe8110102",
+      "localizador": "5573458857016"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "18/12/2025",
+      "day_of_week": "Thursday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Pia Wolfe",
+          "team": "A",
+          "rating": "2.75"
+        },
+        {
+          "name": "Vik Frost",
+          "team": "B",
+          "rating": "3,00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2,50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=4261e5351d30b49895d1a0d1f13dce20",
+      "localizador": "6910443582012"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "15/12/2025",
+      "day_of_week": "Monday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "2,50 - 3,00",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2.75"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Xan Owens",
+          "team": "B",
+          "rating": "3,00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "2.50"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=01a3ff416d4a3baf69dad8199bfca8b6",
+      "localizador": "8761465378897"
+    },
+    {
+      "tag": "Activity",
+      "name": "Smash Clinic",
+      "date": "14/12/2025",
+      "day_of_week": "Sunday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Court 1",
+      "instructor": "Pau Monclus",
+      "levels": "2,50 - 3,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=2983475eb46c5296f62e338d74ff1fe4",
+      "localizador": "8744482487546"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "12/12/2025",
+      "day_of_week": "Friday",
+      "time": "21:30-23:30",
+      "duration_minutes": 120,
+      "court": "Court 4",
+      "instructor": "Richard Pratt",
+      "levels": "2,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=74bde94fb78c8d5f08b79affd2b49c12",
+      "localizador": "5811901943303"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "11/12/2025",
+      "day_of_week": "Thursday",
+      "time": "17:30-19:30",
+      "duration_minutes": 120,
+      "court": "Court 6: Estrella Damm",
+      "instructor": "Pau Monclus",
+      "levels": "2,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=e6f0bade65c3b188cc102ddb8379c7ce",
+      "localizador": "2991423578168"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "09/12/2025",
+      "day_of_week": "Tuesday",
+      "time": "18:30-19:30",
+      "duration_minutes": 60,
+      "court": "Court 8 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=48c07dd7753eda83d7c58dfe0d5a0cf3",
+      "localizador": "4519685181376"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "06/12/2025",
+      "day_of_week": "Saturday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2,25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=689447ab57a683536c4499d863386ce1",
+      "localizador": "7118030752560"
+    },
+    {
+      "tag": "Activity",
+      "name": "Train and Play Green",
+      "date": "05/12/2025",
+      "day_of_week": "Friday",
+      "time": "12:30-14:30",
+      "duration_minutes": 120,
+      "court": "Court 1",
+      "instructor": "Pau Monclus",
+      "levels": "2,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=3f5fb85967f532f3ab3cc2d0b698d5c7",
+      "localizador": "8208657393467"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "04/12/2025",
+      "day_of_week": "Thursday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2.25"
+        },
+        {
+          "name": "Zed Frost",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Jade Hale",
+          "team": "A",
+          "rating": "2,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f34369aad80b891baf90d0d3bf16295d",
+      "localizador": "9308415462035"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "29/11/2025",
+      "day_of_week": "Saturday",
+      "time": "13:00-14:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Gus Bloom",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Jade Hale",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=58765a6ca7cff00d796c25410335b400",
+      "localizador": "2531130372532"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "28/11/2025",
+      "day_of_week": "Friday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2.25"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Gus Lund",
+          "team": "A",
+          "rating": "2.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=bef750110c57513064d6d59291f0cde2",
+      "localizador": "3185729936422"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "27/11/2025",
+      "day_of_week": "Thursday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Dan Shaw",
+          "team": "B",
+          "rating": "2.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=2e751989a01749ddb14f71010b93b7d9",
+      "localizador": "2451877240101"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "26/11/2025",
+      "day_of_week": "Wednesday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Uma Vale",
+          "team": "B",
+          "rating": "2.25"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Rae Nash",
+          "team": "A",
+          "rating": "2,00"
+        },
+        {
+          "name": "Milo Bloom",
+          "team": "A",
+          "rating": "2.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=02364f9572b85a8e48f687ab165c58ac",
+      "localizador": "4750525602323"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "18/11/2025",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:00",
+      "duration_minutes": 60,
+      "court": "Court 2: Joma Padel Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=7c6f561c5cb347611a3ce9d97dcbee50",
+      "localizador": "8711349889983"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "15/11/2025",
+      "day_of_week": "Saturday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Yara Knox",
+          "team": "B",
+          "rating": "2.25"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "2.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=cc60d5d32cbe54014c2b54b95523cf69",
+      "localizador": "868554658035"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "14/11/2025",
+      "day_of_week": "Friday",
+      "time": "20:30-21:30",
+      "duration_minutes": 60,
+      "court": "Court 4 Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=b5e803b61ba4168160adb59261ff2d3c",
+      "localizador": "9779413289711"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "13/11/2025",
+      "day_of_week": "Thursday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Omar Lund",
+          "team": "B",
+          "rating": "2,25"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.25"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=88b886e7577496a2c8773e130f7eb197",
+      "localizador": "985275294518"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "11/11/2025",
+      "day_of_week": "Tuesday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 1",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Uma Vale",
+          "team": "B",
+          "rating": "2.25"
+        },
+        {
+          "name": "Dan Hale",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=8902073fec8df4f50947aaeb26c57d21",
+      "localizador": "9821579833246"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "04/11/2025",
+      "day_of_week": "Tuesday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Omar Lund",
+          "team": "B",
+          "rating": "2,25"
+        },
+        {
+          "name": "Jade Quill",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Sol Bloom",
+          "team": "A",
+          "rating": "2,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=ea325a65e19cbae530282bd36cb9d21f",
+      "localizador": "6654960686785"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "03/11/2025",
+      "day_of_week": "Monday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Rae Ellis",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "2.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=0d9106fd287db7f1adbc60926f6967e7",
+      "localizador": "5292140153475"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "31/10/2025",
+      "day_of_week": "Friday",
+      "time": "18:30-20:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 4",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Sol Shaw",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Jade Hale",
+          "team": "B",
+          "rating": "2,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=287cced9041dff02cee737443e210471",
+      "localizador": "9391095708014"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "30/10/2025",
+      "day_of_week": "Thursday",
+      "time": "20:30-22:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Tara Grant",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "B",
+          "rating": "2.50"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "A",
+          "rating": "2,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=f145fda9988c79fc35526f7eaed46725",
+      "localizador": "9876814252248"
+    },
+    {
+      "tag": "Booking",
+      "name": null,
+      "date": "26/10/2025",
+      "day_of_week": "Sunday",
+      "time": "15:30-16:30",
+      "duration_minutes": 60,
+      "court": "Court 7: London Independent Hospital Indoor",
+      "instructor": null,
+      "levels": null,
+      "players": null,
+      "link": "https://demo.example/Intranet/Booking.aspx?localizador=50fec94dbca3a0aac36098b2cc2bd818",
+      "localizador": "1006674939968"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "23/10/2025",
+      "day_of_week": "Thursday",
+      "time": "20:00-21:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Pia Knox",
+          "team": "B",
+          "rating": "2,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2,00"
+        },
+        {
+          "name": "Sol Bloom",
+          "team": "A",
+          "rating": "2.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2.25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=0f1f836f99eee3692f09e2e8c662248b",
+      "localizador": "5019922594285"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "22/10/2025",
+      "day_of_week": "Wednesday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 2: Joma Padel",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.25"
+        },
+        {
+          "name": "Sol Vale",
+          "team": "A",
+          "rating": "2,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=af4941d4072014b3ce107f80e222f828",
+      "localizador": "3711021419740"
+    },
+    {
+      "tag": "Activity",
+      "name": "Bandeja Workshop",
+      "date": "19/10/2025",
+      "day_of_week": "Sunday",
+      "time": "19:00-20:30",
+      "duration_minutes": 90,
+      "court": "Court 3",
+      "instructor": "Richard Pratt",
+      "levels": "2,00 - 2,50",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=14028d512c9791e558e08baa7196b50a",
+      "localizador": "1574812856332"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "17/10/2025",
+      "day_of_week": "Friday",
+      "time": "21:00-22:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Gus Lund",
+          "team": "A",
+          "rating": "2,25"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "A",
+          "rating": "2.25"
+        },
+        {
+          "name": "Cleo Nash",
+          "team": "B",
+          "rating": "2,00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=84173581569969e58b081006f7e3dfc9",
+      "localizador": "3886820016059"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "16/10/2025",
+      "day_of_week": "Thursday",
+      "time": "12:30-14:00",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 3: Terra Rossa",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Milo Bloom",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "2,50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Gus Lund",
+          "team": "A",
+          "rating": "2,25"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=cad6ba2b0aee0ca923732881584d8c4f",
+      "localizador": "5853969479374"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "12/10/2025",
+      "day_of_week": "Sunday",
+      "time": "17:00-18:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 6: Estrella Damm",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Cleo Nash",
+          "team": "A",
+          "rating": "2,00"
+        },
+        {
+          "name": "Eli Reyes",
+          "team": "B",
+          "rating": "2,25"
+        },
+        {
+          "name": "Hana Castro",
+          "team": "B",
+          "rating": "2.00"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2.00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=0454f31af3176813e02ea68ef786e4d3",
+      "localizador": "7875575997924"
+    },
+    {
+      "tag": "Match",
+      "name": "Mixed Padel Match",
+      "date": "11/10/2025",
+      "day_of_week": "Saturday",
+      "time": "14:00-15:30",
+      "duration_minutes": 90,
+      "court": "Indoor - Court 8",
+      "instructor": null,
+      "levels": "2,00 - 2,50",
+      "players": [
+        {
+          "name": "Dan Reyes",
+          "team": "A",
+          "rating": "2.50"
+        },
+        {
+          "name": "Pia Wolfe",
+          "team": "B",
+          "rating": "2,25"
+        },
+        {
+          "name": "Zed Frost",
+          "team": "B",
+          "rating": "2,50"
+        },
+        {
+          "name": "Demo Player",
+          "team": "A",
+          "rating": "2,00"
+        }
+      ],
+      "link": "https://demo.example/Matches/Match.aspx?id=23c6f5da2cec255404e4fb440034d660",
+      "localizador": "3841998137098"
+    },
+    {
+      "tag": "Activity",
+      "name": "Rating Session",
+      "date": "07/10/2025",
+      "day_of_week": "Tuesday",
+      "time": "18:00-19:00",
+      "duration_minutes": 60,
+      "court": "Court 8",
+      "instructor": "Richard Pratt",
+      "levels": "1,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=eff9243a8f506b40928b5b7a767c76fb",
+      "localizador": "609945779189"
+    },
+    {
+      "tag": "Activity",
+      "name": "Rating Session",
+      "date": "06/10/2025",
+      "day_of_week": "Monday",
+      "time": "18:00-19:00",
+      "duration_minutes": 60,
+      "court": "Court 8",
+      "instructor": "Pau Monclus",
+      "levels": "1,00",
+      "players": null,
+      "link": "https://demo.example/Intranet/ActivityBooking.aspx?bid=1ecccc3fc1626e53a13043b026c48bbf",
+      "localizador": "2127752167083"
+    }
+  ]
+}
